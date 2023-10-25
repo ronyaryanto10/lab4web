@@ -482,7 +482,7 @@ nav a:hover {
 ### 2. Tambahkan layout untuk menu Contact
 #### => yang berisi form isian: nama, email, message, dll
 
-![image](https://github.com/adityaputrawijaya/Lab4web/assets/115687055/84e45294-e141-4c17-93c6-4f884c3cb6d5)
+![D5280A40-8AD2-45B7-8A97-8C0BFA9E6A77](https://github.com/ronyaryanto10/lab4web/assets/117130461/9a79e9b9-4ebf-48c3-af01-478c40957e0f)
 
 
 
